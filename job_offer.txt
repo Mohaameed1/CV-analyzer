@@ -1,0 +1,8 @@
+Nous recherchons un développeur backend PHP / Symfony.
+Compétences requises :
+- PHP, Symfony
+- MySQL
+- API REST
+- Git
+- Docker
+- Bonne connaissance en JavaScript
